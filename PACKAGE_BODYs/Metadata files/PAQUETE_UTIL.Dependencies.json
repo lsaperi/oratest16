@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_OUTPUT",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "PAQUETE_UTIL",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]
